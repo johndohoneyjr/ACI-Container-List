@@ -1,2 +1,6 @@
-azure-identity==1.7.1
-azure-mgmt-containerinstance==8.0.0
+azure-identity
+azure-mgmt-containerinstance
+requests
+flask
+jsonify
+watchdog
