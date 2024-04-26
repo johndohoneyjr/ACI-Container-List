@@ -28,8 +28,6 @@ pip install -r requirements.txt
 
 ```
 Sample JSON respons payload from test Hello World ACI Image
-
-```json
 {
     "id": "/subscriptions/9bb9f5c1-2e1a-4f65-a451-3e60c0a3f1cc/resourceGroups/aci-test-me/providers/Microsoft.ContainerInstance/containerGroups/testme",
     "location": "eastus",
